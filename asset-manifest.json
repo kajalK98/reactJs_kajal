@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactJs_kajal/static/css/main.7a08150a.chunk.css",
-    "main.js": "/reactJs_kajal/static/js/main.b2d00bf0.chunk.js",
-    "main.js.map": "/reactJs_kajal/static/js/main.b2d00bf0.chunk.js.map",
+    "main.js": "/reactJs_kajal/static/js/main.e809f298.chunk.js",
+    "main.js.map": "/reactJs_kajal/static/js/main.e809f298.chunk.js.map",
     "runtime-main.js": "/reactJs_kajal/static/js/runtime-main.33b6f8f5.js",
     "runtime-main.js.map": "/reactJs_kajal/static/js/runtime-main.33b6f8f5.js.map",
     "static/css/2.af3c1da9.chunk.css": "/reactJs_kajal/static/css/2.af3c1da9.chunk.css",
     "static/js/2.85cf9609.chunk.js": "/reactJs_kajal/static/js/2.85cf9609.chunk.js",
     "static/js/2.85cf9609.chunk.js.map": "/reactJs_kajal/static/js/2.85cf9609.chunk.js.map",
     "index.html": "/reactJs_kajal/index.html",
-    "precache-manifest.2c110ce05eb6af128cd30f6936519cd3.js": "/reactJs_kajal/precache-manifest.2c110ce05eb6af128cd30f6936519cd3.js",
+    "precache-manifest.98c2e449fbea4554d79baa19f9b4603c.js": "/reactJs_kajal/precache-manifest.98c2e449fbea4554d79baa19f9b4603c.js",
     "service-worker.js": "/reactJs_kajal/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/reactJs_kajal/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.7a08150a.chunk.css.map": "/reactJs_kajal/static/css/main.7a08150a.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.85cf9609.chunk.js",
     "static/css/main.7a08150a.chunk.css",
-    "static/js/main.b2d00bf0.chunk.js"
+    "static/js/main.e809f298.chunk.js"
   ]
 }
